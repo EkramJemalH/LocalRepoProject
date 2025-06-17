@@ -1,1 +1,2 @@
+Hello, Git and GitHub!
 This is some new text I'm adding.
